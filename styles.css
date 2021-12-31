@@ -1,0 +1,31 @@
+body {
+    background-color: blue;
+}
+
+.container{
+    font-family: monospace;
+    background-color: black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    padding: 44px;
+}
+
+h1 {
+    color: aliceblue;
+}
+
+p {
+    color: dimgray;
+}
+
+label {
+    color: dimgray;
+}
+
+select {
+    background-color: black;
+    color: aliceblue;
+}
